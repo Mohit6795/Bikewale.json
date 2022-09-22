@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "category":"Sport Bikes",
+        "category_id": 1
+    },
+    {
+        "id":2,
+        "category":"Cruiser Bikes",
+        "category_id": 2
+    },
+    {
+        "id":3,
+        "category":"Scooter",
+        "category_id": 3
+    },
+    {
+        "id":4,
+        "category":"Commuter",
+        "category_id": 4
+    }
+    
+]
